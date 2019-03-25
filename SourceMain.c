@@ -1,3 +1,7 @@
 */This is a test of GIT and GIT hub/*
 
-int main (){}
+void app_main (){
+	
+	prinf("hello world!\n");
+	
+}
